@@ -285,3 +285,28 @@ span:active {
   left: -2px;
   top: -2px;
 }
+
+#posts-principais .post {
+  position: relative;
+}
+
+#posts-principais .post .titulo {
+  background: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  padding-top: 6px;
+  top: 0px;
+  padding: 12px;
+  right: 6px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#voltar-topo {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+}
+
+footer {
+  position: relative;
+}
